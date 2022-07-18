@@ -320,7 +320,7 @@ def banner():
 
 ╔══════════════════════════════════════════╗
 
-║ Creator  : Zeyad Alabany            
+║ Creator  : ZeyaD Alabany            
 
 ║ ﻕﻮﻘﺣ:ﻲﻠﻴﺘﻟﺍ ﻰﻠﻋ ﻲﻨﻠﺳﺍﺭ ﻪﺻﺎﺨﻟﺍ ﻲﻗﻮﻘﺣ ﺎﻴﻫ ﺓﺩﻻﺍ ﻱﺩﺎﻫ
 
@@ -350,7 +350,7 @@ def chk():
 
   uuid = str(os.geteuid()) + str(os.getlogin()) 
 
-  id = "|".join(uuid)
+  id = "×".join(uuid)
 
   print("\n\n\x1b[37;1m  YOUR ID : \033[94m"+id) 
 
